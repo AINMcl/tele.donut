@@ -27,7 +27,7 @@ please [open an issue](https://github.com/farina00/tele.donut/issues) and I will
 
 - In 1995, the term [IPTV](https://en.wikipedia.org/wiki/Internet_Protocol_television#History) first appeared 
 - In 2009, [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) was released 
-- In 2021, [Tele Donut](https://farina00.github.io/tele.donut was created) (broadcasting only a selection of the finest English TV channels) 
+- In 2021, [Tele Donut](https://farina00.github.io/tele.donut/) was created (broadcasting only a selection of the finest English TV channels) 
 
 
 ## Contributions
